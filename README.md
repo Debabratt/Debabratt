@@ -10,7 +10,7 @@
 🎓 &nbsp;I have completed my B.Tech from Biju Patnaik University of Technology.\
 🌱 &nbsp;I'm on track for learning more about Full Stack Development , Systems Design, and I'm currently learning front-end development as part of my journey toward becoming a full stack developer.\
 💬 &nbsp;Feel free to reach out to me for any help or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me at [Linkedin](https://www.linkedin.com/in/contactdeepk) ! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me at [Linkedin](https://linkedin.com/in/debabrat) ! I'll try to respond as soon as I can.\
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
